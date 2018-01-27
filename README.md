@@ -1,2 +1,5 @@
 # hello-world
-Just for first test.
+
+Hello,
+My name is Anna - and this is my first GitHub file.
+I hope you will enjoy my various projects.
